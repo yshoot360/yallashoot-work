@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yalla-888-pro.pages.dev/sitemap.xml
