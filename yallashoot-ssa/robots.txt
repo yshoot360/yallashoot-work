@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yallashoot-ssa-pro.pages.dev/sitemap.xml
