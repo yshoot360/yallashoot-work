@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yshoot-autos-pro.pages.dev/sitemap.xml

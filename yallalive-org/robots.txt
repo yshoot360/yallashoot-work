@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yallalive-org-pro.pages.dev/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ylive-autos-pro.pages.dev/sitemap.xml

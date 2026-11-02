@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "yallalive-org-360",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "cleanUrls": true
+  }
+}
